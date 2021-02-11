@@ -64,7 +64,7 @@ function numberKeys(numbers) {
 };
 
 function operatorKeys(operators) {
-    //  console.log(operators)
+    
      localMemory = display.value;
 
   if (NewMemory && ExpectedMemory !== '=') {
